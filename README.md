@@ -26,6 +26,27 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 - [TailwindCss](https://tailwindcss.com/) - For Style
 - [Vite](https://vitejs.dev/) - React framework
 
+## Getting started
+
+Clone o projeto para ter acessos dos arquivos.
+
+```bash
+
+git clone https://github.com/JoeSeraphy/easybank-frontendMentor
+
+cd easybank-frontendMentor
+
+```
+
+Run rhis command to indtall the dependencies.
+
+```bash
+npm install
+
+npm run dev
+
+```
+
 ### What I learned
 
 Desafio intermediario, escolhi usar o react para melhora os meus estudo e focar, fiquei um pouco preocupado

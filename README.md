@@ -49,7 +49,7 @@ npm run dev
 
 ### What I learned
 
-Desafio intermediario, escolhi usar o react para melhora os meus estudo e focar, fiquei um pouco preocupado
+Desafio intermediario, escolhi usar o react para melhora os meus estudo, fiquei um pouco preocupado com algumas coisa que não estava conseguindo, mas com tempo e também pesquisando consegui resolver
 
 ```tsx
 <header className="bg-White z-20 p-4 shadow-md lg:px-8">

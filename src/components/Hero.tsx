@@ -3,7 +3,7 @@ const heroImage = "assets/images/image-mockups.png";
 
 function Hero() {
   return (
-    <div className="bg-intro-mobile lg:bg-intro-desktop z-0 overflow-hidden bg-VeryLightGray sm:pb-16">
+    <div className="bg-intro-mobile lg:bg-intro-desktop z-0 h-screen overflow-hidden bg-VeryLightGray sm:pb-16">
       <div className="mx-auto lg:flex lg:items-center lg:justify-between lg:pl-8 xl:max-w-[1440px]">
         <img src={heroImage} className="mx-auto -mt-32 grid lg:hidden" />
         <div className="mt-8 text-center lg:-mt-8 lg:w-96 lg:text-left">

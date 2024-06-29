@@ -5,7 +5,7 @@ const iconOnline = "assets/images/icon-online.svg";
 
 function Main() {
   return (
-    <div className="bg-LightGrayishBlue px-4 py-20 lg:-mt-60 lg:px-8">
+    <div className="mt-0 bg-LightGrayishBlue px-4 py-20 lg:-mt-60 lg:px-8">
       <div className="mx-auto max-w-[1440px]">
         <div className="text-center lg:text-left">
           <h2 className="text-4xl text-DarkBlue">Why choose Easybank?</h2>

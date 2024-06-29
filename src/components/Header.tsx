@@ -1,6 +1,6 @@
 import Button from "./Button";
 import Nav from "./Nav";
-const logo = "src/assets/images/logo.svg";
+const logo = "assets/images/logo.svg";
 
 function Header() {
   return (

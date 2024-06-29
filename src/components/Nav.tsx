@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-const menu = "src/assets/images/icon-hamburger.svg";
-const closeMenu = "src/assets/images/icon-close.svg";
+const menu = "assets/images/icon-hamburger.svg";
+const closeMenu = "assets/images/icon-close.svg";
 
 function Nav() {
   const [isOpen, setIsOpen] = useState(false);

@@ -1,7 +1,7 @@
-const money = "src/assets/images/image-currency.jpg";
-const diner = "src/assets/images/image-restaurant.jpg";
-const plane = "src/assets/images/image-plane.jpg";
-const confetti = "src/assets/images/image-confetti.jpg";
+const money = "assets/images/image-currency.jpg";
+const diner = "assets/images/image-restaurant.jpg";
+const plane = "assets/images/image-plane.jpg";
+const confetti = "assets/images/image-confetti.jpg";
 
 function Articles() {
   return (

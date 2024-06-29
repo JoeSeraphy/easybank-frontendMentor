@@ -1,11 +1,11 @@
 import Button from "./Button";
 
-const logo = "src/assets/images/logo-white.svg";
-const facebook = "src/assets/images/icon-facebook.svg";
-const youtube = "src/assets/images/icon-youtube.svg";
-const twitter = "src/assets/images/icon-twitter.svg";
-const pinterest = "src/assets/images/icon-pinterest.svg";
-const instagram = "src/assets/images/icon-instagram.svg";
+const logo = "assets/images/logo-white.svg";
+const facebook = "assets/images/icon-facebook.svg";
+const youtube = "assets/images/icon-youtube.svg";
+const twitter = "assets/images/icon-twitter.svg";
+const pinterest = "assets/images/icon-pinterest.svg";
+const instagram = "assets/images/icon-instagram.svg";
 
 function Footer() {
   return (

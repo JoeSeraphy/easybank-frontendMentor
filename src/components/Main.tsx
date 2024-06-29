@@ -1,7 +1,7 @@
-const iconApi = "src/assets/images/icon-api.svg";
-const iconBudgeting = "src/assets/images/icon-budgeting.svg";
-const iconOnboarding = "src/assets/images/icon-onboarding.svg";
-const iconOnline = "src/assets/images/icon-online.svg";
+const iconApi = "assets/images/icon-api.svg";
+const iconBudgeting = "assets/images/icon-budgeting.svg";
+const iconOnboarding = "assets/images/icon-onboarding.svg";
+const iconOnline = "assets/images/icon-online.svg";
 
 function Main() {
   return (

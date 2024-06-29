@@ -11,7 +11,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://easybank-joeseraphy.vercel.app/)
 
 ## My process
 
@@ -28,7 +28,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### What I learned
 
-Desafio junior usando HTML, CSS e javaScript fácil
+Desafio intermediario, escolhi usar o react para melhora os meus estudo e focar, fiquei um pouco preocupado
 
 ```tsx
 <header className="bg-White z-20 p-4 shadow-md lg:px-8">

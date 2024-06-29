@@ -1,5 +1,5 @@
 import Button from "./Button";
-const heroImage = "src/assets/images/image-mockups.png";
+const heroImage = "assets/images/image-mockups.png";
 
 function Hero() {
   return (

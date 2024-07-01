@@ -16,9 +16,9 @@ body {
   }
 
   .bg-intro-mobile {
-    @apply bg-[url('bg-intro-mobile.svg')] bg-contain bg-no-repeat;
+    @apply bg-[url('bg-intro-mobile.svg')] bg-contain bg-[0rem_6rem] bg-no-repeat;
   }
   .bg-intro-desktop {
-    @apply bg-[url('bg-intro-desktop.svg')] bg-no-repeat lg:bg-[28rem_-5rem] xl:bg-[50rem_-11rem];
+    @apply bg-[length] bg-[url('bg-intro-desktop.svg')] bg-no-repeat lg:bg-[28rem_-5rem] xl:bg-[46rem_-10rem];
   }
 }

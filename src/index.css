@@ -24,21 +24,21 @@ body {
 }
 
 .bg-intro {
-  background: url("./public/bg-intro-desktop.svg") no-repeat;
+  background: url("public/bg-intro-desktop.svg") no-repeat;
   background-size: 1000px 860px;
   background-position: top -7rem right -14rem;
 }
 
 @media (max-width: 1024px) {
   .bg-intro {
-    background: url("./public/bg-intro-desktop.svg") no-repeat;
+    background: url("public/bg-intro-desktop.svg") no-repeat;
     background-size: 800px 760px;
     background-position: top -7rem right -10rem;
   }
 }
 @media (max-width: 769px) {
   .bg-intro {
-    background: url("./public/bg-intro-mobile.svg") no-repeat;
+    background: url("public/bg-intro-mobile.svg") no-repeat;
     background-size: contain;
     background-position: top;
   }

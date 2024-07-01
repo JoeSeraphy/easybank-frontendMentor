@@ -15,10 +15,31 @@ body {
     @apply absolute -bottom-7 left-0 h-1 w-full origin-bottom-right scale-x-0 bg-gradient-to-r from-LimeGreen to-BrightCyan transition-transform duration-300 content-[''] hover:origin-bottom-left hover:scale-x-100;
   }
 
-  .bg-intro-mobile {
+  /*.bg-intro-mobile {
     @apply bg-[url('./public/bg-intro-mobile.svg')] bg-contain bg-[0rem_2rem] bg-no-repeat;
-  }
-  .bg-intro-desktop {
+  }*/
+  /*.bg-intro-desktop {
     @apply bg-[length] bg-[url('./public/bg-intro-desktop.svg')] bg-no-repeat lg:bg-[28rem_-5rem] xl:bg-[46rem_-8rem];
+  }*/
+}
+
+.bg-intro {
+  background: url("./public/bg-intro-desktop.svg") no-repeat;
+  background-size: 1000px 860px;
+  background-position: top -7rem right -14rem;
+}
+
+@media (max-width: 1024px) {
+  .bg-intro {
+    background: url("./public/bg-intro-desktop.svg") no-repeat;
+    background-size: 800px 760px;
+    background-position: top -7rem right -10rem;
+  }
+}
+@media (max-width: 769px) {
+  .bg-intro {
+    background: url("./public/bg-intro-mobile.svg") no-repeat;
+    background-size: contain;
+    background-position: top;
   }
 }
